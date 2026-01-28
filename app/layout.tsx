@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Free Asphalt Calculator 2024 - Estimate Hot Mix Tonnage",
   description: "Instantly calculate hot mix asphalt tonnage and cost for driveways, parking lots, and roads. Free, accurate, and easy to use.",
+  verification: {
+    google: "56i0kgjM_-7VfXyXk6cl4USK6ZyN8slL-ukkijNtGGs",
+  },
 };
 
 export default function RootLayout({
